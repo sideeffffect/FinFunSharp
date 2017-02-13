@@ -1,0 +1,25 @@
+type project
+title
+    FinFunSharp
+owners
+    Ondra Pelech
+authors 
+    Ondra Pelech
+projectUrl
+    https://github.com/sideeffffect/FinFunSharp
+iconUrl
+    https://raw.githubusercontent.com/sideeffffect/FinFunSharp/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/sideeffffect/FinFunSharp/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    fsharp finance
+summary
+    Financial playground in F#
+description
+    Financial playground in F#
+
+
